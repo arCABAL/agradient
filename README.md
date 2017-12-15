@@ -48,7 +48,7 @@ you can call all three functions without input arguments to see an explanation o
 /a1dgrad
 ![Imgur](https://i.imgur.com/GJfMyYJ.png)
 
-/a3dgrad
+/a2dgrad
 ![Imgur](https://i.imgur.com/owvtlfL.png)
 
 /a3dgrad
