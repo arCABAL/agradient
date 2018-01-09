@@ -73,6 +73,8 @@ Since both a2dgrad and a3dgrad will declare agradient and agradientundo, you onl
 - For the best results, use the white texture on page 10 of the F2 menu, `/vscroll 999999 999999` and `/vscale 0.125`
 
 - Make sure that the row of cubes that will be generated will stay inside your view or else it will only be partially generated.
-Sauerbraten only allows you to edit on the stuff thats in your direct view.
+Sauerbraten only allows you to edit on the stuff which is in your direct view.
 
 - Because this script uses vcolor, it can only be used in multiplayer if you disable nompedit: `/nompedit 0`. After using it you have to use `/sendmap` for others to see it.
+
+https://www.youtube.com/watch?v=j-_9v8QSlrA
